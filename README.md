@@ -1,7 +1,8 @@
 # Cursor Drift Preventer
-
-Keeps your computer awake by gently nudging your mouse cursor every so often. This is handy when you need to step away from your computer but want to keep your session active and prevent it from locking or going to sleep.
-
+This simple piece of Python script keeps your computer awake by gently drifting your mouse cursor every so often.
+This is handy when you need to step away from your computer but want to keep your session active and prevent it from locking or going to sleep.
+Your IT Cybersecurity guy will not like this!
+And while you are not present at your desk, do not let your busy colleague send emails offering free coffee to the team!
 ## How it Works
 
 The script uses the `pyautogui` library to get your current mouse position. Then, it moves the cursor one pixel to the right and immediately back one pixel to the left. This tiny movement is usually enough to trick your system into thinking you're still active. It does this every 30 seconds.
