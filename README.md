@@ -3,6 +3,10 @@ This simple piece of Python script keeps your computer awake by gently drifting 
 This is handy when you need to step away from your computer but want to keep your session active and prevent it from locking or going to sleep.
 Your IT Cybersecurity guy will not like this!
 And while you are not present at your desk, do not let your busy colleague send emails offering free coffee to the team!
+
+![image](https://github.com/user-attachments/assets/0b8dd407-c370-40b0-a320-d3a6cf7a1102)
+![image](https://github.com/user-attachments/assets/d2361e96-565f-4f2e-aa28-ba2033b11bae)
+
 ## How it Works
 
 The script uses the `pyautogui` library to get your current mouse position. Then, it moves the cursor one pixel to the right and immediately back one pixel to the left. This tiny movement is usually enough to trick your system into thinking you're still active. It does this every 30 seconds.
