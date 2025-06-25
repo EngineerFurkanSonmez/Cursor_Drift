@@ -15,10 +15,12 @@ You can stop the script at any time by pressing `Ctrl+C` in the terminal where i
 
 ## Requirements
 
-To use this script, you'll need Python installed on your system. You'll also need the `pyautogui` library. You can install it using pip:
+To use this script, you'll need Python installed on your system. The required Python libraries are listed in the `requirements.txt` file.
+
+To install the dependencies, navigate to the project directory in your terminal and run:
 
 ```bash
-pip install pyautogui
+pip install -r requirements.txt
 ```
 
 ## Usage
