@@ -4,8 +4,8 @@ This is handy when you need to step away from your computer but want to keep you
 Your IT Cybersecurity guy will not like this!
 And while you are not present at your desk, do not let your busy colleague send emails offering free coffee to the team!
 
-![image](https://github.com/user-attachments/assets/0b8dd407-c370-40b0-a320-d3a6cf7a1102)
 ![image](https://github.com/user-attachments/assets/d2361e96-565f-4f2e-aa28-ba2033b11bae)
+![image](https://github.com/user-attachments/assets/0b8dd407-c370-40b0-a320-d3a6cf7a1102)
 
 ## How it Works
 
